@@ -1,0 +1,4 @@
+[submodule "seyed-mohammad-motahar/sms_document_management"]
+	path = seyed-mohammad-motahar/sms_document_management
+	url = git@github.com:seyed-mohammad-motahar/sms_document_management.git
+	branch = 12.0
