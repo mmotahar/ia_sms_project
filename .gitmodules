@@ -7,3 +7,8 @@
 	path = seyed-mohammad-motahar/sms_recruitment_enhancement
 	url = git@github.com:seyed-mohammad-motahar/sms_recruitment_enhancement.git
 	branch = 12.0
+
+[submodule "ioppolodev/hdeq"]
+	path = ioppolodev/hdeq
+	url = git@github.com:ioppolodev/hdeq.git
+	branch = 12.0
